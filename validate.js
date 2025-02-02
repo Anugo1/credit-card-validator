@@ -20,6 +20,17 @@ rl.question("Enter your credit card number : ", (cardNumber) => {
 
 });
 
+// 5012345678901234 :
+// paste this or any mastercard pin in the console once you run the code to verify.
+
+// run "node validate.js" in the console
+
+
+
+
+
+
+
 /*
 Regex Breakdown:
 
