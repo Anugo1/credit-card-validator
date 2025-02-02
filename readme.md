@@ -3,6 +3,8 @@
 
 ## To run the program
 
+- clone the repository
+
 **input** `node validate.js` on the console and input the mastercard pin that you have.
 
 Example: ``` ***************Welcome to my credit card checker!*****************
